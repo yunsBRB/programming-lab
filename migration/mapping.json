@@ -1,0 +1,11 @@
+{
+  "fondamentaux": "csharp/fundamentals",
+  "ALGORITHME": "algorithms/recap",
+  "flogorithm": "algorithms/flowcharts",
+  "2048-game": "csharp/2048",
+  "ExoCompteCourant": "csharp/bank-account",
+  "exoCinema": "java/cinema",
+  "HTML": "web/html-css",
+  "JavaScript": "web/javascript",
+  "Orbit-Full-HTML": "web/orbit"
+}

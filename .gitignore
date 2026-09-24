@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/build/
+**/target/
+**/.idea/
+**/.vs/
+*.class
+*.iml
+.DS_Store
+Thumbs.db
