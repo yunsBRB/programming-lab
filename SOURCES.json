@@ -131,57 +131,57 @@
     "files": [
       {
         "source": "projet2/css/mafeuilledestylecss.css",
-        "destination": "exercises/web/html-css/projet2/css/mafeuilledestylecss.css",
+        "destination": "exercises/web/html-css/text-and-selectors/css/mafeuilledestylecss.css",
         "git_blob_sha": "9ea422da4e472d7d8a78b6ce45ab2ad5f8b3f1b5"
       },
       {
         "source": "projet2/projet2html.html",
-        "destination": "exercises/web/html-css/projet2/projet2html.html",
+        "destination": "exercises/web/html-css/text-and-selectors/projet2html.html",
         "git_blob_sha": "cd170c8064183fe43574743f71e2257e04c6f1b2"
       },
       {
         "source": "projet_formulaire/formulaire.html",
-        "destination": "exercises/web/html-css/projet_formulaire/formulaire.html",
+        "destination": "exercises/web/html-css/forms/formulaire.html",
         "git_blob_sha": "190ce7795b90401f4308b551554f5dcfa59f206b"
       },
       {
         "source": "projet_formulaire/menu_formulaire.css",
-        "destination": "exercises/web/html-css/projet_formulaire/menu_formulaire.css",
+        "destination": "exercises/web/html-css/forms/menu_formulaire.css",
         "git_blob_sha": "5f282702bb03ef11d7184d19c80927b47f919764"
       },
       {
         "source": "projet_fruit/indexfruits.html",
-        "destination": "exercises/web/html-css/projet_fruit/indexfruits.html",
+        "destination": "exercises/web/html-css/tables/indexfruits.html",
         "git_blob_sha": "37af0f38eeec8d500726ebff9800eec8c6f8ebaa"
       },
       {
         "source": "projet_fruit/mesfruits.css",
-        "destination": "exercises/web/html-css/projet_fruit/mesfruits.css",
+        "destination": "exercises/web/html-css/tables/mesfruits.css",
         "git_blob_sha": "a36c2aec9ec5afe9d2a33333a31412ebb33e3a2e"
       },
       {
         "source": "projet_video/images/svg.svg",
-        "destination": "exercises/web/html-css/projet_video/images/svg.svg",
+        "destination": "exercises/web/html-css/video-and-svg/images/svg.svg",
         "git_blob_sha": "bc8d40d46ee0993371e039bd53fffc0137756946"
       },
       {
         "source": "projet_video/images/voiture_jaune.jfif",
-        "destination": "exercises/web/html-css/projet_video/images/voiture_jaune.jfif",
+        "destination": "exercises/web/html-css/video-and-svg/images/voiture_jaune.jfif",
         "git_blob_sha": "a4bad01c5f40b47c9059bc76be1d08704d308425"
       },
       {
         "source": "projet_video/transition.css",
-        "destination": "exercises/web/html-css/projet_video/transition.css",
+        "destination": "exercises/web/html-css/video-and-svg/transition.css",
         "git_blob_sha": "18f95a9904313dd37d351d6bc579c527a9e0c993"
       },
       {
         "source": "projet_video/video.html",
-        "destination": "exercises/web/html-css/projet_video/video.html",
+        "destination": "exercises/web/html-css/video-and-svg/video.html",
         "git_blob_sha": "af1d7e246a72346482cffbec902bd420afad2849"
       },
       {
         "source": "projet_video/videoss/windowsill.mp4",
-        "destination": "exercises/web/html-css/projet_video/videoss/windowsill.mp4",
+        "destination": "exercises/web/html-css/video-and-svg/videoss/windowsill.mp4",
         "git_blob_sha": "68b00279bbc736edc9fec4bee90db1c3a10a9611"
       }
     ]
@@ -192,97 +192,97 @@
     "files": [
       {
         "source": "EXO 2/index.html",
-        "destination": "exercises/web/javascript/EXO 2/index.html",
+        "destination": "exercises/web/javascript/conditions-and-inputs/index.html",
         "git_blob_sha": "c601d057cea9866bcba9b3ad7d3778ab45ffe351"
       },
       {
         "source": "EXO 2/script.js",
-        "destination": "exercises/web/javascript/EXO 2/script.js",
+        "destination": "exercises/web/javascript/conditions-and-inputs/script.js",
         "git_blob_sha": "f5891ff1574696cb78f52917c3d35d032155d281"
       },
       {
         "source": "EXO 2/style.css",
-        "destination": "exercises/web/javascript/EXO 2/style.css",
+        "destination": "exercises/web/javascript/conditions-and-inputs/style.css",
         "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
       },
       {
         "source": "EXO 3 nombres/index.html",
-        "destination": "exercises/web/javascript/EXO 3 nombres/index.html",
+        "destination": "exercises/web/javascript/loops-and-numbers/index.html",
         "git_blob_sha": "bf1021be1110c52418d7694061c9777033f00e26"
       },
       {
         "source": "EXO 3 nombres/script.js",
-        "destination": "exercises/web/javascript/EXO 3 nombres/script.js",
+        "destination": "exercises/web/javascript/loops-and-numbers/script.js",
         "git_blob_sha": "64fdb6a9b414c46ad21dbb48fce911354698b342"
       },
       {
         "source": "EXO 3 nombres/style.css",
-        "destination": "exercises/web/javascript/EXO 3 nombres/style.css",
+        "destination": "exercises/web/javascript/loops-and-numbers/style.css",
         "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
       },
       {
         "source": "EXO 4 les collections/index.html",
-        "destination": "exercises/web/javascript/EXO 4 les collections/index.html",
+        "destination": "exercises/web/javascript/collections/index.html",
         "git_blob_sha": "7fd1e67639285e76bbd491002d6de13d7c718666"
       },
       {
         "source": "EXO 4 les collections/script.js",
-        "destination": "exercises/web/javascript/EXO 4 les collections/script.js",
+        "destination": "exercises/web/javascript/collections/script.js",
         "git_blob_sha": "0566d5b6a6e1c81491d355f74e483e3e56404238"
       },
       {
         "source": "EXO 4 les collections/style.css",
-        "destination": "exercises/web/javascript/EXO 4 les collections/style.css",
+        "destination": "exercises/web/javascript/collections/style.css",
         "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
       },
       {
         "source": "EXO JavaScript/exo1.html",
-        "destination": "exercises/web/javascript/EXO JavaScript/exo1.html",
+        "destination": "exercises/web/javascript/dom-and-events/exo1.html",
         "git_blob_sha": "0f88beb867efde73b7829975140ecea3fb5b14c8"
       },
       {
         "source": "EXO JavaScript/script.js",
-        "destination": "exercises/web/javascript/EXO JavaScript/script.js",
+        "destination": "exercises/web/javascript/dom-and-events/script.js",
         "git_blob_sha": "a1293458548966663bffd626fad057b095cf3b78"
       },
       {
         "source": "EXO JavaScript/style.css",
-        "destination": "exercises/web/javascript/EXO JavaScript/style.css",
+        "destination": "exercises/web/javascript/dom-and-events/style.css",
         "git_blob_sha": "71dde220599995473adafbefe0f7f81916bce140"
       },
       {
         "source": "EXO les fonctions/index.html",
-        "destination": "exercises/web/javascript/EXO les fonctions/index.html",
+        "destination": "exercises/web/javascript/functions/index.html",
         "git_blob_sha": "1feb5911ab48c00d105e9ed5fbf3b39c65f56adf"
       },
       {
         "source": "EXO les fonctions/script.js",
-        "destination": "exercises/web/javascript/EXO les fonctions/script.js",
+        "destination": "exercises/web/javascript/functions/script.js",
         "git_blob_sha": "599b6290cb74658f1ae13522d994a23bf0108ab6"
       },
       {
         "source": "EXO les fonctions/style.css",
-        "destination": "exercises/web/javascript/EXO les fonctions/style.css",
+        "destination": "exercises/web/javascript/functions/style.css",
         "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
       },
       {
         "source": "Exo Chronomètre/chronomètre_files/script.js.téléchargement",
-        "destination": "exercises/web/javascript/Exo Chronomètre/chronomètre_files/script.js.téléchargement",
+        "destination": "exercises/web/javascript/timers/chronomètre_files/script.js.téléchargement",
         "git_blob_sha": "74728b00287d7aa03b45fda026b097404bfb65aa"
       },
       {
         "source": "Exo Chronomètre/index.html",
-        "destination": "exercises/web/javascript/Exo Chronomètre/index.html",
+        "destination": "exercises/web/javascript/timers/index.html",
         "git_blob_sha": "c7033d90e0af86b9b684db8daaff8fe153845116"
       },
       {
         "source": "Exo Chronomètre/script.js",
-        "destination": "exercises/web/javascript/Exo Chronomètre/script.js",
+        "destination": "exercises/web/javascript/timers/script.js",
         "git_blob_sha": "2414afda43dfd8532021c2dc8451c3308fbc52bb"
       },
       {
         "source": "Exo Chronomètre/style.css",
-        "destination": "exercises/web/javascript/Exo Chronomètre/style.css",
+        "destination": "exercises/web/javascript/timers/style.css",
         "git_blob_sha": "e9c0c68c69b0b9e4249aa8cbaa7f69c04c3bd80a"
       }
     ]
