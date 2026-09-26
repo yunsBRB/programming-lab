@@ -1,9 +1,9 @@
-# Compte bancaire
+# bank-account
 
-Projet pédagogique C# autour d’une banque, d’une personne et d’un compte courant.
+A C# exercise modelling a bank, customers and current accounts.
 
-Depuis la racine, avec le SDK indiqué dans le `.csproj` :
+From this folder, using the .NET SDK required by the project:
 
 ```sh
-dotnet run --project projects/bank-account/ExoCompteCourant.csproj
+dotnet run --project ExoCompteCourant.csproj
 ```

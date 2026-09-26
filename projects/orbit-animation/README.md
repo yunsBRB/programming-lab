@@ -1,3 +1,3 @@
-# Animation orbitale
+# Orbit Animation
 
-Démonstration web contenue dans [index.html](index.html). Ouvrir ce fichier dans un navigateur.
+An orbital animation built in a single HTML file. Open [index.html](index.html) in a browser.

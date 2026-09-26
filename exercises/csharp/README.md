@@ -1,3 +1,3 @@
-# C#
+# C# Fundamentals
 
-[fundamentals](fundamentals) regroupe les notes et fragments de code sur les fondamentaux. Les projets exécutables sont dans [projects](../../projects).
+[Notes and examples](fundamentals) covering language basics. Runnable applications are in [mySchool-projects](https://github.com/yunsBRB/mySchool-projects/tree/main/csharp).

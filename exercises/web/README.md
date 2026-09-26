@@ -1,6 +1,6 @@
-# Web
+# Web Fundamentals
 
-- [html-css](html-css) : pages, formulaire, fruits et intégration vidéo.
-- [javascript](javascript) : nombres, fonctions, collections et chronomètre.
+- [HTML and CSS](html-css): page structure, forms and styling.
+- [JavaScript](javascript): functions, collections, events and timers.
 
-Ouvrir le fichier HTML de chaque exercice dans un navigateur. Les ressources restent à côté des pages pour préserver leurs liens relatifs.
+Open each exercise's HTML file in a browser.

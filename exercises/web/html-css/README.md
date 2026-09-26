@@ -1,10 +1,10 @@
-# HTML et CSS
+# HTML and CSS
 
-| Dossier | Notions |
-|---|---|
-| [text-and-selectors](text-and-selectors) | Titres, paragraphes, classes et identifiants |
-| [forms](forms) | Champs et formulaires |
-| [tables](tables) | Tableaux et sélecteurs CSS |
-| [video-and-svg](video-and-svg) | Vidéo, SVG et transitions |
+| Folder | Topics |
+| --- | --- |
+| [Text and Selectors](text-and-selectors) | Headings, paragraphs, classes and IDs |
+| [Forms](forms) | Inputs and forms |
+| [Tables](tables) | Tables and CSS selectors |
+| [Video and SVG](video-and-svg) | Embedded media and transitions |
 
-Ouvrir la page HTML de chaque dossier. Aucun traitement serveur des formulaires n’est fourni. Les ressources restent à côté des pages pour préserver les liens relatifs.
+Open each HTML file in a browser. Forms have no server-side processing.

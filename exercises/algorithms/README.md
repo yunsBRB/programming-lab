@@ -1,4 +1,4 @@
-# Algorithmique
+# Algorithms
 
-- [recap](recap) : récapitulatif d’exercices en C#.
-- [flowcharts](flowcharts) : organigrammes `.fprg` à ouvrir avec Flowgorithm.
+- [Recap](recap): C# practice exercises.
+- [Flowcharts](flowcharts): open the `.fprg` files with Flowgorithm.

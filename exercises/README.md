@@ -1,8 +1,8 @@
-# Exercices
+# Exercises
 
-- [Algorithmique](algorithms) : récapitulatif et organigrammes.
-- [C#](csharp) : fondamentaux.
-- [Java](java) : premières classes.
-- [Web](web) : HTML/CSS et JavaScript.
+- [Algorithms](algorithms)
+- [C#](csharp)
+- [Java](java)
+- [Web](web)
 
-Ces exercices correspondent à des étapes de formation. Certains sont incomplets ; les fragments ne constituent pas un programme unique.
+Independent training exercises. Some are unfinished.

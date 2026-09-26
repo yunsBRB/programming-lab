@@ -1,7 +1,7 @@
-# Projets
+# Projects
 
-- [2048](2048-game) : jeu console C#.
-- [Compte bancaire](bank-account) : exercice C# organisé en projet.
-- [Animation orbitale](orbit-animation) : démonstration HTML.
+- [2048](2048-game): C# console game.
+- [bank-account](bank-account): C# object modelling exercise.
+- [Orbit Animation](orbit-animation): HTML animation.
 
-Chaque projet se lance séparément.
+Follow the instructions in each project's folder.

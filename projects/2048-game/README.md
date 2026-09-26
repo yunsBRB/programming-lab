@@ -1,11 +1,9 @@
 # 2048
 
-Jeu en console C#.
+A console grid game written in C#.
 
-Depuis la racine du dépôt, avec le SDK indiqué dans le `.csproj` :
+From this folder, using the .NET SDK required by the project:
 
 ```sh
-dotnet run --project "projects/2048-game/2048 game.csproj"
+dotnet run --project "2048 game.csproj"
 ```
-
-`Program.cs` contient le programme. Les fichiers compilés ne sont pas versionnés.

@@ -1,12 +1,12 @@
 # JavaScript
 
-| Dossier | Notions |
-|---|---|
-| [dom-and-events](dom-and-events) | Modification de la page et clics |
-| [conditions-and-inputs](conditions-and-inputs) | Saisie, conditions et objets |
-| [loops-and-numbers](loops-and-numbers) | Boucles, sommes et puissances |
-| [collections](collections) | Tableaux, tri, filtre et transformation |
-| [functions](functions) | Fonctions, mots, années bissextiles et listes |
-| [timers](timers) | Chronomètre et événements — exercice incomplet |
+| Folder | Topics |
+| --- | --- |
+| [DOM and Events](dom-and-events) | Page updates and clicks |
+| [Conditions and Inputs](conditions-and-inputs) | Input, conditions and objects |
+| [Loops and Numbers](loops-and-numbers) | Loops and calculations |
+| [Collections](collections) | Arrays, sorting, filtering and mapping |
+| [Functions](functions) | Words, leap years and lists |
+| [Timers](timers) | Stopwatch exercise, unfinished |
 
-Ouvrir le fichier HTML du dossier et la console du navigateur. Les essais de formation sont conservés avec leurs imperfections.
+Open each HTML file and the browser console.
