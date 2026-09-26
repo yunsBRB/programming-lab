@@ -1,20 +1,32 @@
 # Programming lab
 
-Mes exercices de formation, rangés par sujet. Les projets complets restent dans leurs propres dépôts.
+Mes petits projets et exercices de formation, regroupés dans un seul dépôt.
 
-| Dossier | Contenu |
+## Projets
+
+| Dossier | Sujet |
 |---|---|
-| [csharp](csharp) | Fondamentaux, jeu 2048 et compte bancaire |
-| [java/cinema](java/cinema) | Premières classes Java — exercice incomplet |
-| [algorithms](algorithms) | Récapitulatif et organigrammes Flowgorithm |
-| [web](web) | HTML/CSS, JavaScript et animation orbitale |
+| [2048-game](projects/2048-game) | Jeu 2048 en console C# |
+| [bank-account](projects/bank-account) | Modélisation d’une banque et d’un compte courant en C# |
+| [orbit-animation](projects/orbit-animation) | Démonstration web en HTML |
 
-## Utilisation
+## Exercices
 
-Chaque exercice est indépendant. Pour les projets C#, lancer `dotnet run --project "csharp/2048/2048 game.csproj"` ou `dotnet run --project csharp/bank-account/ExoCompteCourant.csproj` avec le SDK indiqué dans le fichier `.csproj`. Les fichiers de fondamentaux sont des notes et fragments de code, pas une application unique.
+| Dossier | Sujet |
+|---|---|
+| [Algorithmique](exercises/algorithms) | Récapitulatif C# et organigrammes Flowgorithm |
+| [C#](exercises/csharp) | Fondamentaux et fragments de code |
+| [Java](exercises/java) | Classes d’un cinéma — ébauche de formation |
+| [Web](exercises/web) | Exercices HTML/CSS et JavaScript |
 
-Les pages web peuvent être ouvertes dans le navigateur. Les organigrammes `.fprg` s’ouvrent avec Flowgorithm. Certains exercices sont volontairement inachevés : ce dépôt conserve mon parcours, sans prétendre être une bibliothèque prête à l’emploi.
+Chaque dossier est indépendant : ce dépôt n’est pas une application à compiler en bloc. Les README des projets indiquent comment les ouvrir.
 
-## Origine
+## Projets autonomes
 
-Les fichiers sources sont conservés à l’identique. [SOURCES.json](SOURCES.json) indique leur dépôt d’origine, le commit importé et leur empreinte Git. Les dépôts d’origine conservent l’historique. Les fichiers générés, réglages d’IDE et solutions sans code ne sont pas recopiés.
+Les projets avec leur propre structure restent séparés : [MoonName](https://github.com/yunsBRB/moonname), [LogSentry](https://github.com/yunsBRB/logsentry), [Médiathèque Java](https://github.com/yunsBRB/mediatheque-java), [Heroes vs Monsters](https://github.com/yunsBRB/heroes-vs-monsters), [SuperMario](https://github.com/yunsBRB/SuperMario) et [NutriScan](https://github.com/yunsBRB/nutriscan).
+
+Les exercices de bases de données sont dans [database-lab](https://github.com/yunsBRB/database-lab).
+
+## Historique
+
+Le code et les ressources ont été conservés à l’identique. [SOURCES.json](SOURCES.json) associe chaque fichier à son dépôt et son commit d’origine. Les anciens dépôts archivés servent de sauvegarde de l’historique ; le travail se poursuit ici.
